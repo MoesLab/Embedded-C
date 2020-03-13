@@ -13,3 +13,6 @@ A tiny program for adding 8 auxiliary buttons to regular six axis PS3 controller
 
 futured in instructables  
 https://www.instructables.com/id/PS3-Combo-Shotter-Arduino-Hack/
+
+---
+### ERB
