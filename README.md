@@ -1,5 +1,5 @@
 # Embeded-C
-A collection of minimized C++ programs that runs in small factor micro-controllers
+A collection of minimized C++ programs that run in small factor micro-controllers
 ---
 ### MSGEQ7_final.ino
 A firmware for Atmel 328 that is the heart of floatable stereo system MSGEQ7 works as a filter that  
@@ -15,4 +15,8 @@ futured in instructables
 https://www.instructables.com/id/PS3-Combo-Shotter-Arduino-Hack/
 
 ---
-### ERB
+### ERB_v2.ino
+// Electric Roller Booster V2.0 2012
+// The brain of ERB it will receive controll commands from XBee remote controller
+// and controls a pair of boots. 
+// for configuration and feedbacks, it uses bluetooth module to communicate with phone 
