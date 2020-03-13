@@ -3,7 +3,7 @@ A collection of minimized C++ programs that run in small factor micro-controller
 ---
 ### MSGEQ7_final.ino
 A firmware for Atmel 328 that is the heart of floatable stereo system MSGEQ7 works as a filter that  
-detects different audio bands and use them to activate proper colour on LED strips to creat effects.  
+detects different audio bands and use them to activate assotiated colour on LED strips to creat effects.  
 futured in instructables  
 https://www.instructables.com/id/Beach-Boombox/
 
