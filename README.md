@@ -11,5 +11,5 @@ https://www.instructables.com/id/Beach-Boombox/
 ### ComboShotter.ino
 A tiny program for adding 8 auxiliary buttons to regular six axis PS3 controller and use them to trigger combos :)  
 
-futured in instructables
+futured in instructables  
 https://www.instructables.com/id/PS3-Combo-Shotter-Arduino-Hack/
