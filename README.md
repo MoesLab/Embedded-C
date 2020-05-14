@@ -19,3 +19,5 @@ https://www.instructables.com/id/PS3-Combo-Shotter-Arduino-Hack/
 Electric Roller Booster V2.0 2012  
 The brain of ERB it will receive controll commands from XBee remote controller and controls a pair of boots.  
 For configuration and feedbacks, it uses bluetooth module to communicate with phone  
+https://www.youtube.com/watch?v=26TajObKNjs
+
