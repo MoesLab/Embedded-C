@@ -1,4 +1,4 @@
-# Embeded-C
+# Embedded-C
 A collection of minimized C++ programs that run in small factor micro-controllers
 ---
 ### MSGEQ7_final.ino
