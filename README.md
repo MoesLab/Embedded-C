@@ -1,5 +1,5 @@
 # Embedded-C
-A collection of minimized C++ programs that run in small factor micro-controllers
+A collection of minimized C++ programs that run in small factor Microcontrollers
 ---
 ### MSGEQ7_final.ino
 A firmware for Atmel 328 that is the heart of floatable stereo system MSGEQ7 works as a filter
